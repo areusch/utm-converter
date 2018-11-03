@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <rte>
+    <name>UTM route</name>
+    <rtept lat="37.667762552877164" lon="-119.59780071687297">
+      <name>H0</name>
+      <desc>Glacier Pt. Road/Horizon Trail junction.</desc>
+    </rtept>
+    <rtept lat="37.664785892735445" lon="-119.59302667446319">
+      <name>H1</name>
+      <desc>Top of initial climb.</desc>
+    </rtept>
+    <rtept lat="37.66257581713202" lon="-119.58985524087511">
+      <name>H2</name>
+      <desc>Red Fir Meadow.</desc>
+    </rtept>
+    <rtept lat="37.66225257040998" lon="-119.5852872791174">
+      <name>H3</name>
+      <desc>Stream crossing  Trees.</desc>
+    </rtept>
+    <rtept lat="37.65998020003159" lon="-119.58330417797873">
+      <name>H4</name>
+      <desc>Stream crossing  Trees.</desc>
+    </rtept>
+    <rtept lat="37.65662563725405" lon="-119.58053564672002">
+      <name>H5</name>
+      <desc>Stream crossing before Horizon.</desc>
+    </rtept>
+    <rtept lat="37.65513018930346" lon="-119.57928244592773">
+      <name>H6</name>
+      <desc>Base of Horizon.</desc>
+    </rtept>
+    <rtept lat="37.65166078142463" lon="-119.57681632238553">
+      <name>H7</name>
+      <desc>Top of first leg of climb  Traverse to re-entrant/open hill.</desc>
+    </rtept>
+    <rtept lat="37.650514425473986" lon="-119.57443067821202">
+      <name>H8</name>
+      <desc>Re-entrant crossing  bottom of open hill/base of dome proper.</desc>
+    </rtept>
+    <rtept lat="37.64913024493182" lon="-119.5705522548209">
+      <name>H9</name>
+      <desc>Tree at top of steepest climb  right turn.</desc>
+    </rtept>
+    <rtept lat="37.64730064760999" lon="-119.56974118492055">
+      <name>H10</name>
+      <desc>Tree  traversing.</desc>
+    </rtept>
+    <rtept lat="37.64466669503784" lon="-119.56821115509918">
+      <name>H11</name>
+      <desc>High point  west of Dome top.</desc>
+    </rtept>
+    <rtept lat="37.6428007852982" lon="-119.56575577530911">
+      <name>H12</name>
+      <desc>Signed Dead Tree on dome flank  left turn off dome proper.</desc>
+    </rtept>
+    <rtept lat="37.64192241906937" lon="-119.49457088014768">
+      <name>BDVJCT</name>
+      <desc>Bridalveil/Horizon Trail Junction.</desc>
+    </rtept>
+    <rtept lat="37.640223430332306" lon="-119.56244883603253">
+      <name>H13</name>
+      <desc>"1.5 Mile" sign at base of Heart Attack hill open slope.</desc>
+    </rtept>
+    <rtept lat="37.6391505164625" lon="-119.55998698334687">
+      <name>HA1</name>
+      <desc>Tree in middle of Heart Attack hill open slope.</desc>
+    </rtept>
+    <rtept lat="37.638042429164976" lon="-119.55789793480514">
+      <name>H14</name>
+      <desc>Enter treeline at top of Heart Attack open slope.</desc>
+    </rtept>
+    <rtept lat="37.636670549449455" lon="-119.55550529279999">
+      <name>HA2</name>
+      <desc>Midway up enclosed part of Heart Attack hill  slight turn to left.</desc>
+    </rtept>
+    <rtept lat="37.635542964715725" lon="-119.55306444782417">
+      <name>H15</name>
+      <desc>Right Turn by Snow Course.</desc>
+    </rtept>
+    <rtept lat="37.634062858142634" lon="-119.55566520846767">
+      <name>H16</name>
+      <desc>Left Turn at open corner.</desc>
+    </rtept>
+    <rtept lat="37.63225454237596" lon="-119.55345041761171">
+      <name>H17</name>
+      <desc>".5 mile" to hut sign.</desc>
+    </rtept>
+    <rtept lat="37.63109032465795" lon="-119.54978480755308">
+      <name>H18</name>
+      <desc>Top of last climb  right turn.</desc>
+    </rtept>
+    <rtept lat="37.62938436198362" lon="-119.54949988224122">
+      <name>H19</name>
+      <desc>Traverse  slight left turn.</desc>
+    </rtept>
+    <rtept lat="37.62844481249322" lon="-119.54877663285944">
+      <name>H20</name>
+      <desc>Start downhill to Hut.</desc>
+    </rtept>
+    <rtept lat="37.62668442035017" lon="-119.54975882262629">
+      <name>H21</name>
+      <desc>Ostrander Ski Hut.</desc>
+    </rtept>
+  </rte>
+</gpx>
